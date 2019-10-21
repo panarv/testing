@@ -69,7 +69,7 @@ graphql-core==1.0.1
 graphql-relay==0.4.5
 graphviz==0.6
 html5lib==0.999999999
-httpie==0.9.6
+httpie==1.0.3
 httplib2==0.10.3
 idna==2.2
 ijson==2.3
