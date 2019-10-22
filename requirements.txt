@@ -137,7 +137,7 @@ pefile==2016.3.28
 pep8==1.7.0
 Photohash==0.4.1
 pickleshare==0.7.4
-Pillow==3.4.2
+Pillow==6.2.0
 premailer==3.0.1
 prices==0.5.8
 promise==1.0.0
