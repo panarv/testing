@@ -203,7 +203,7 @@ tldextract==2.0.2
 toolz==0.8.0
 tornado==4.4.2
 traitlets==4.3.1
-Twisted==16.4.1
+Twisted==19.7.0
 typing==3.5.2.2
 ua-parser==0.7.3
 uritemplate==3.0.0
