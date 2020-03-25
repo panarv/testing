@@ -53,7 +53,7 @@ elasticsearch==2.4.1
 entrypoints==0.2.2
 enum34==1.1.6
 Faker==0.7.7
-Flask==0.10.1
+Flask==1.0
 Flask-SocketIO==2.7.1
 funcsigs==1.0.2
 functools32==3.2.3.post2
