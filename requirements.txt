@@ -119,7 +119,7 @@ MySQL-python==1.2.5
 nbconvert==4.2.0
 nbformat==4.1.0
 networkx==1.11
-notebook==4.2.3
+notebook==6.1.5
 numpy==1.11.0
 numpy-sharedmem===2009-03-15
 oauth2client==4.0.0
