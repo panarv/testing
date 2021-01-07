@@ -102,7 +102,7 @@ kivy.deps.gstreamer-dev==0.1.5
 kivy.deps.sdl2==0.1.12
 kivy.deps.sdl2-dev==0.1.12
 line-profiler==2.0
-lxml==3.8.0
+lxml==4.6.2
 Markdown==2.6.7
 MarkupSafe==0.23
 matplotlib==1.5.3
